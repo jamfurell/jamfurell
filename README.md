@@ -1,6 +1,15 @@
 👋 Hi, I’m @jamfurell
 
-I'm a technical engineer with a background in mental health and administration. As a first generation university graduate, I grew as a goal orientated thinker that used the method of decomposition to successfully reach my goals. I am able to use my experience of interacting with clients of various backgrounds and managing multiple projects to successfully adjust to diverse work environments and meet deadlines with emphasis on attention to details. Seeing how much everyday people's lives are becoming dependent on technology, I gravitate towards software engineering in order to be part of the team that creates opportunities for people to improve the way they build out their life to the fullest.
+I’m a technical problem solver who built my career at the intersection of people, systems, and technology.
+
+My background started in mental health and administrative work before transitioning into technical support and customer-facing engineering roles supporting complex SaaS environments. That path shaped how I approach problems: stay calm under pressure, break issues into manageable parts, communicate clearly, and keep moving toward resolution.
+
+Over the past several years, I’ve worked across troubleshooting, escalations, cross-functional collaboration, and enterprise support — often acting as the bridge between technical teams and non-technical stakeholders. I’m comfortable navigating ambiguity, managing competing priorities, and translating complex issues into actionable next steps.
+
+I didn’t come from a traditional computer science background, so I learned by doing: building technical depth through hands-on problem solving, curiosity, and persistence. That experience made me adaptable, resourceful, and highly collaborative.
+
+Beyond the technical work, I’m motivated by the idea that technology should create opportunities for people, not barriers. That’s what drew me into this field and what continues to keep me engaged in it. I bring the same attention to detail, empathy, and systems thinking to every role I take on — whether in technical support, customer engineering, solutions consulting, operations, or other cross-functional technical work.
+
 
 Frameworks & Languages: HTML, CSS, Javascript, Python, Bootstrap, EJS, React, Express, Django, Java, Swift
 Databases: MongoDB, Mongoose, PostgresSQL, Sequelize, BigQuery, Redshift, Snowflake
