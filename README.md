@@ -1,4 +1,4 @@
-👋 Hi, I’m @jamfurell
+👋 Hi, I’m Janie
 
 I’m a technical problem solver who built my career at the intersection of people, systems, and technology.
 
@@ -8,12 +8,11 @@ Over the past several years, I’ve worked across troubleshooting, escalations, 
 
 I didn’t come from a traditional computer science background, so I learned by doing: building technical depth through hands-on problem solving, curiosity, and persistence. That experience made me adaptable, resourceful, and highly collaborative.
 
-Beyond the technical work, I’m motivated by the idea that technology should create opportunities for people, not barriers. That’s what drew me into this field and what continues to keep me engaged in it. I bring the same attention to detail, empathy, and systems thinking to every role I take on — whether in technical support, customer engineering, solutions consulting, operations, or other cross-functional technical work.
+Beyond the technical work, I’m motivated by the idea that technology should create opportunities for people, not barriers. That’s what drew me into this field and what continues to keep me engaged in it. I bring the same attention to detail, empathy, and systems thinking to every role I take on — whether in technical support, customer engineering, solutions consulting, operations, or other cross-functional technical work. I resolve issues, making complex systems easier and more reliable for people to use and learning from every support challenge. 
 
+***Skills***: Postman, REST APIs, Webhooks, Web & Mobile SDKs | Datadog, Observe, Chronosphere, Sumo Logic, LogRocket | SQL (PostgreSQL, BigQuery, Redshift, Snowflake; T-SQL), Python | JavaScript, HTML, Browser DevTools, Java, Swift | Airflow | Confluence, Zendesk, Jira, Slack, Github, Looker, Zoom, Slack, Cursor
 
-Frameworks & Languages: HTML, CSS, Javascript, Python, Bootstrap, EJS, React, Express, Django, Java, Swift
-Databases: MongoDB, Mongoose, PostgresSQL, Sequelize, BigQuery, Redshift, Snowflake
-Management & Deployment: Git, GitHub, Heroku, Command Line, Slack, Trello
+ 
 
 <!---
 jamfurell/jamfurell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
